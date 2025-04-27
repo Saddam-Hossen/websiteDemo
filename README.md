@@ -115,6 +115,15 @@ Here are different types of website design layouts with variations in **menubar,
 
 Sidebar:
 
+
+
+
+https://github.com/user-attachments/assets/b87777a3-1163-4f3e-880f-955034fe5fc6
+
+
+![photo_2025-04-28_01-50-18](https://github.com/user-attachments/assets/0cbce32f-0d06-4272-97b2-55800475b9b6)
+
+
 A **left sidebar** is commonly used in website design for specific use cases where quick access to navigation, tools, or secondary content is crucial. Here are the most typical scenarios where a left sidebar works best:
 
 ---
